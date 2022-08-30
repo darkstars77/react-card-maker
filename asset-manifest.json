@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-card-maker/static/css/main.f6598d64.css",
+    "main.js": "/react-card-maker/static/js/main.9d0569b8.js",
+    "index.html": "/react-card-maker/index.html",
+    "main.f6598d64.css.map": "/react-card-maker/static/css/main.f6598d64.css.map",
+    "main.9d0569b8.js.map": "/react-card-maker/static/js/main.9d0569b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6598d64.css",
+    "static/js/main.9d0569b8.js"
+  ]
+}
